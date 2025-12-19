@@ -192,8 +192,8 @@ const App = () => {
         {currentView === 'converter' && (
           <div className="space-y-6">
             <div className="text-center py-4">
-              <h2 className="text-3xl font-bold mb-2">Currency</h2>
-              <h2 className="text-3xl font-bold">Converter</h2>
+              <h2 className="text-3xl font-bold mb-2">DiiFlip</h2>
+              
               <div className="text-5xl my-4">🐱</div>
             </div>
 
