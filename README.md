@@ -75,3 +75,6 @@ Fetches live currency rates via Exchange Rates API:
 sql
 Copy code
 https://api.exchangerate.host/convert?from=RWF&to=USD
+
+### Link to Deployment
+https://dii-flip-one.vercel.app/
